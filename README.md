@@ -1,6 +1,6 @@
-# nosso_primeiro_projeto
+# data_persistence_sqflite_flutter_app
 
-A new Flutter project.
+A basic flutter project looking to explore and learn about using the SQFLite package for Data Persistence.
 
 ## Getting Started
 
